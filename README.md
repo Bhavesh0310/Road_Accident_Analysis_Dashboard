@@ -73,8 +73,3 @@ The dataset contains detailed records of road accidents, including:
 - Integrate **SQL** for automated data extraction  
 - Apply **Python / Machine Learning** for accident prediction and risk analysis  
 - Add geographic visualization (maps)
-
----
-
-## 📁 Project Structure
-
